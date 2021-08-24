@@ -5,7 +5,7 @@ Neste repositório vamos períodicamente atualizar os IOCs , oriundos da nossa a
 
 Indice:
 
-- IOC-C2_MIRAI.txt = Relação IP;ASN de hosts que são controladores (Controller/C2) mapeados, botnet Mirai
+- IOC-C2_MIRAI.txt = Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, botnet Mirai
 Intervalo de Atualização: 3d
 
 

@@ -8,4 +8,17 @@ Indice:
 - IOC-C2_MIRAI.txt = Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, botnet Mirai
 Intervalo de Atualização: 3d
 
+- IOC-C2_QUANT.txt = Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, botnet Quant
+Intervalo de Atualização: 3d
 
+- IOC-C2_BETABOT.txt = Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, botnet Betabot
+Intervalo de Atualização: 3d
+
+- IOC-C2_PONYLOADER.txt = Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, botnet PonyLoader
+Intervalo de Atualização: 3d
+
+- IOC-C2_GUMBLAR.txt = Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, botnet Gumblar
+Intervalo de Atualização: 3d
+
+- IOC-C2_SMOKELOADER.txt = Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, botnet SmokeLoader
+Intervalo de Atualização: 3d

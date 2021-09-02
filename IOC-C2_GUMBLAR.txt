@@ -5,7 +5,7 @@
 #Formato: IP;ASN [ex: xxx.xxx.xxx.xxx;ASxxxxxx]
 #OBS: IoC IPv4;ASN de host´s e seus sistemas autônomos, controladores (Atividade C2) da botnet #gumblar
 # --------------------------------------------------
-# Versão: 26/08/2021 , 18:00hs, By Alex Brito
+# Versão: 02/09/2021 , 13:50:00hs, By Gilmar Franco
 # --------------------------------------------------
 50.63.7.228;AS26496
 213.186.33.19;AS16276
@@ -56,3 +56,7 @@
 173.252.87.1;AS32934
 173.252.95.14;AS32934
 138.117.177.142;AS264245
+213.186.33.4;AS16276
+187.44.184.198;AS28186
+185.191.171.14;AS209366
+156.146.63.2;AS60068

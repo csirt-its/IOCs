@@ -5,7 +5,7 @@
 #Formato: IP;ASN [ex: xxx.xxx.xxx.xxx;ASxxxxxx]
 #OBS: IoC IPv4;ASN de host´s e seus sistemas autônomos, controladores (Atividade C2) da botnet #ponyloader
 # --------------------------------------------------
-# Versão: 26/08/2021 , 18:00hs, By Alex Brito
+# Versão: 02/09/2021 , 13:55hs, By Gilmar Franco
 # --------------------------------------------------
 3.133.163.136;AS16509
 34.102.136.180;AS15169
@@ -57,3 +57,8 @@
 103.120.165.49;AS134562
 121.52.158.246;AS45773
 103.146.17.96;AS139841
+8.212.24.67;AS45102
+13.58.168.69;AS16509
+192.241.219.45;14061
+23.129.64.148;AS396507
+41.76.117.18;AS37172

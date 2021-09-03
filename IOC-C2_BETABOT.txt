@@ -5,7 +5,7 @@
 #Formato: IP;ASN [ex: xxx.xxx.xxx.xxx;ASxxxxxx]
 #OBS: IoC IPv4;ASN de host´s e seus sistemas autônomos, controladores (Atividade C2) da botnet #betabot
 # --------------------------------------------------
-# Versão: 02/09/2021 , 13:49hs, By Gilmar Franco
+# Versão: 03/09/2021 , 15:49hs, By Gilmar Franco
 # --------------------------------------------------
 173.231.189.17;AS29791
 18.215.128.143;AS14618

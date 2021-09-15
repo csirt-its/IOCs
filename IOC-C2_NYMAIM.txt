@@ -1,0 +1,29 @@
+#IoC C2 Host Botnet: Nymain
+#By: Equipe CSIRT-ITS
+#Equipe CSIRT: Francisco Badaró, Cleidson Vaz, Gilmar Franco, Alex Brito
+#Tipo: IPv4
+#Formato: IP;ASN [ex: xxx.xxx.xxx.xxx;ASxxxxxx]
+#OBS: IoC IPv4;ASN de host´s e seus sistemas autônomos, controladores (Atividade C2) da botnet #Nymain
+# --------------------------------------------------
+# Versão: 15/09/2021 , 11:03hs, By Gilmar Franco
+# --------------------------------------------------
+54.36.148.29;AS16276
+69.171.251.5;AS32934
+173.252.127.119;AS32934
+209.141.59.180;AS53667
+77.111.247.189;AS205016
+173.252.127.6;AS32934
+185.220.100.246;AS205100
+69.171.251.5;AS32934
+31.13.127.35;AS32934
+185.220.102.248;AS60729
+185.83.214.69;AS58110
+173.252.95.6;AS32934
+66.220.149.120;AS32934
+185.107.70.202;AS43350
+23.129.64.130;AS396507
+173.252.127.8;AS32934
+173.252.127.9;AS32934
+69.171.251.7;AS32934
+77.111.247.189;AS205016
+173.252.127.23;AS32934

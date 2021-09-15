@@ -1,0 +1,12 @@
+
+#IoC C2 Host Botnet: ponyloader
+#By: Equipe CSIRT-ITS
+#Equipe CSIRT: Francisco Badaró, Cleidson Vaz, Gilmar Franco, Alex Brito
+#Tipo: IPv4
+#Formato: IP;ASN [ex: xxx.xxx.xxx.xxx;ASxxxxxx]
+#OBS: IoC IPv4;ASN de host´s e seus sistemas autônomos, controladores (Atividade C2) da botnet #ponyloader
+# --------------------------------------------------
+# Versão: 15/09/2021 , 10:22hs, By Gilmar Franco
+# --------------------------------------------------
+
+2600:1f16:389:3100:6698:876d:8406:a143;AS16509

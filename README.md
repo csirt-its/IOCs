@@ -15,6 +15,8 @@ Alto CONFIDENCE pois foi realizado um double-check em ferramentas/fontes distint
 
 - IOC-C2_PONYLOADER.txt = Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, botnet PonyLoader
 
+- IOC-C2_IPV6_PONYLOADER.txt =  Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, botnet PonyLoader 
+
 - IOC-C2_GUMBLAR.txt = Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, botnet Gumblar
 
 - IOC-C2_SMOKELOADER.txt = Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, botnet SmokeLoader

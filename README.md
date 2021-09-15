@@ -23,7 +23,7 @@ Alto CONFIDENCE pois foi realizado um double-check em ferramentas/fontes distint
 
 - IOC-C2_LOKIBOT.txt =  Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, botnet Lokibot
 
-- IOC-IOC-C2_AVALANCE_RANBYUS.txt =  Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, botnet ranbyus
+- IOC-C2_AVALANCE_RANBYUS.txt =  Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, botnet ranbyus
 
 - IOC-C2_NYMAIM.txt =  Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, botnet nymaim
 

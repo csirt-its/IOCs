@@ -4,7 +4,7 @@
 #Equipe CSIRT: Francisco Badaró, Cleidson Vaz, Gilmar Franco, Alex Brito
 #Tipo: IPv4
 #Formato: IP;ASN [ex: xxx.xxx.xxx.xxx;ASxxxxxx]
-#OBS: IoC IPv4;ASN de host´s e seus sistemas autônomos, controladores (Atividade C2) da botnet #accoonstealer
+#OBS: IoC IPv4;ASN de host´s e seus sistemas autônomos, controladores (Atividade C2) da botnet #Raccoonstealer
 # --------------------------------------------------
 # Versão: 15/09/2021 , 11:17hs, By Gilmar Franco
 # --------------------------------------------------

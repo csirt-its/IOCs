@@ -4,7 +4,7 @@
 #Equipe CSIRT: Francisco Badaró, Cleidson Vaz, Gilmar Franco, Alex Brito
 #Tipo: IPv6
 #Formato: IP;ASN [ex: xxxx:xxxx:xxxx:xxxx:xxxx:xxxx:xxxx:xxxx;ASxxxxxx]
-#OBS: IoC IPv6;ASN de host´s e seus sistemas autônomos, controladores (Atividade C2) da botnet #ponyloader
+#OBS: IoC IPv6;ASN de host´s e seus sistemas autônomos, controladores (Atividade C2) da botnet ponyloader
 # --------------------------------------------------
 # Versão: 16/09/2021 , 05:20hs, By Francisco Badaró
 # --------------------------------------------------

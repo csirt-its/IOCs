@@ -2,11 +2,10 @@
 #IoC C2 Host Botnet: Raccoonstealer
 #By: Equipe CSIRT-ITS
 #Equipe CSIRT: Francisco Badaró, Cleidson Vaz, Gilmar Franco, Alex Brito
-#Tipo: IPv4
+#Tipo: IPv6
 #Formato: IP;ASN [ex: xxx.xxx.xxx.xxx;ASxxxxxx]
-#OBS: IoC IPv4;ASN de host´s e seus sistemas autônomos, controladores (Atividade C2) da botnet #Raccoonstealer
+#OBS: IoC IPv6;ASN de host´s e seus sistemas autônomos, controladores (Atividade C2) da botnet #Raccoonstealer
 # --------------------------------------------------
-# Versão: 15/09/2021 , 11:17hs, By Gilmar Franco
+# Versão: 16/09/2021 , 05:18hs, By Francisco Badaró
 # --------------------------------------------------
 2001:67c:4e8:1033:3:100:0:a;AS62041
-

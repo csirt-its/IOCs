@@ -5,7 +5,7 @@
 #Formato: IP;ASN [ex: xxx.xxx.xxx.xxx;ASxxxxxx]
 #OBS: IoC IPv4;ASN de host´s e seus sistemas autônomos, controladores (Atividade C2) da botnet #lokibot
 # --------------------------------------------------
-# Versão: 14/09/2021 , 15:10hs, By Gilmar Franco 
+# Versão: 21/09/2021 , 15:56hs, By Gilmar Franco 
 # --------------------------------------------------
 
 192.185.146.63;46606
@@ -27,4 +27,9 @@
 162.142.125.59;AS398324
 34.77.162.4;AS15169
 74.82.47.4;AS6939
-
+31.13.115.2;AS32934
+34.77.162.22;AS15169
+45.56.91.118;AS63949
+94.180.26.191;AS57044
+103.4.94.178;AS45773
+177.66.255.182;AS52660

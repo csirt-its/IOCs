@@ -1,0 +1,20 @@
+#IoC C2 Host Botnet: avalanchebotnet-andromeda
+#By: Equipe CSIRT-ITS
+#Equipe CSIRT: Francisco Badaró, Cleidson Vaz, Gilmar Franco, Alex Brito
+#Tipo: IPv4
+#Formato: IP;ASN [ex: xxx.xxx.xxx.xxx;ASxxxxxx]
+#OBS: IoC IPv4;ASN de host´s e seus sistemas autônomos, controladores (Atividade C2) da botnet #Andrômeda 
+# --------------------------------------------------
+# Versão: 29/09/2021 , 15:09hs, By Gilmar Franco
+# --------------------------------------------------
+187.44.214.186;AS28186
+138.118.232.82;AS263880
+187.49.211.250;AS28154
+202.137.119.4;AS38553
+45.182.141.30;269749
+185.220.100.241;AS205100
+185.220.100.243;AS205100
+185.220.100.247;AS205100
+64.113.32.29;15154
+185.220.102.242;AS60729
+210.19.38.34;AS9930

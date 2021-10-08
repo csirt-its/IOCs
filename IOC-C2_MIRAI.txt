@@ -5,7 +5,7 @@
 #Formato: IP;ASN [ex: xxx.xxx.xxx.xxx;ASxxxxxx]
 #OBS: IoC IPv4;ASN de host´s e seus sistemas autônomos, controladores (Atividade C2) da botnet #Mirai
 # --------------------------------------------------
-# Versão: 01/10/2021 , 10:21hs, By Gilmar Franco
+# Versão: 08/10/2021 , 12:02hs, By Gilmar Franco
 # --------------------------------------------------
 112.30.4.57;AS9808
 78.36.109.114;AS12389
@@ -171,3 +171,8 @@
 209.141.56.209;AS53667
 82.221.131.71;AS50613
 54.36.148.236;AS16276
+209.141.56.212;AS53667
+34.86.35.22;AS15169
+34.86.35.27;AS15169
+34.86.35.29;AS15169
+34.96.130.11;AS15169

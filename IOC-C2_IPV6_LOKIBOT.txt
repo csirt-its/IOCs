@@ -1,0 +1,12 @@
+#IoC C2 Host Botnet: lokibot
+#By: Equipe CSIRT-ITS
+#Equipe CSIRT: Francisco Badaró, Cleidson Vaz, Gilmar Franco, Alex Brito
+#Tipo: IPv4
+#Formato: IP;ASN [ex: xxx.xxx.xxx.xxx;ASxxxxxx]
+#OBS: IoC IPv4;ASN de host´s e seus sistemas autônomos, controladores (Atividade C2) da botnet #lokibot
+# --------------------------------------------------
+# Versão:011/10/2021 , 11:49hs, By Gilmar Franco 
+# -------------------------------------------------
+
+2600:1f16:389:3110:5e7:810c:cbc:9df7; AS16509
+2600:1f16:389:3120:f32a:1473:91cd:c227;AS16509

@@ -1,0 +1,13 @@
+#IoC C2 Host Botnet: darkcomet
+#By: Equipe CSIRT-ITS
+#Equipe CSIRT: Francisco Badaró, Cleidson Vaz, Gilmar Franco, Alex Brito
+#Tipo: IPv4
+#Formato: IP;ASN [ex: xxx.xxx.xxx.xxx;ASxxxxxx]
+#OBS: IoC IPv4;ASN de host´s e seus sistemas autônomos, controladores (Atividade C2) da botnet #darkcomet
+# --------------------------------------------------
+# Versão: 15/10/2021 , 14:50hs, By Gilmar Franco
+# --------------------------------------------------
+
+23.4.187.27;AS16625
+23.4.43.27
+23.54.187.27

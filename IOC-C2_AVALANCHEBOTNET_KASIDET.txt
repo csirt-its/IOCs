@@ -1,0 +1,21 @@
+#IoC C2 Host Botnet: kasidet
+#By: Equipe CSIRT-ITS
+#Equipe CSIRT: Francisco Badaró, Cleidson Vaz, Gilmar Franco, Alex Brito
+#Tipo: IPv4
+#Formato: IP;ASN [ex: xxx.xxx.xxx.xxx;ASxxxxxx]
+#OBS: IoC IPv4;ASN de host´s e seus sistemas autônomos, controladores (Atividade C2) da botnet #Kasidet
+# --------------------------------------------------
+# Versão: 01/11/2021 , 15:43hs, By Gilmar Franco
+# --------------------------------------------------
+14.102.84.206;AS18002
+196.249.241.134;AS17400
+163.47.158.10;AS58587
+27.34.20.200;AS17501
+103.106.0.9;AS138623
+103.78.250.62;AS136007
+103.79.169.26;AS133648
+103.96.246.251;AS136908
+203.192.251.132;AS17665
+103.114.10.229;AS137578
+186.216.217.35;AS52999
+143.255.84.114;AS263703

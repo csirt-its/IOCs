@@ -5,7 +5,7 @@
 #Formato: IP;ASN [ex: xxx.xxx.xxx.xxx;ASxxxxxx]
 #OBS: IoC IPv4;ASN de host´s e seus sistemas autônomos, controladores (Atividade C2) da botnet #smokeloader
 # --------------------------------------------------
-# Versão: 26/10/2021 , 15:08hs, By Gilmar Franco
+# Versão: 01/11/2021 , 13:30hs, By Gilmar Franco
 # --------------------------------------------------
 184.105.192.2;AS6939
 72.246.64.112;AS20940
@@ -109,3 +109,8 @@
 34.86.35.25;AS15169
 34.96.130.17;AS15169
 34.77.162.7;AS15169
+206.191.152.58;AS29791
+23.63.245.153;20940
+23.63.245.67;20940
+23.63.245.201;20940
+23.63.245.17;20940

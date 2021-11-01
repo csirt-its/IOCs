@@ -9,6 +9,8 @@ Alto CONFIDENCE pois foi realizado um double-check em ferramentas/fontes distint
 
 - IOC-C2_MIRAI.txt = Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, botnet Mirai
 
+- IOC-C2_AVALANCHEBOTNET_KASIDET.txt = = Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, botnet Kasidet
+
 - IOC-C2_QUANT.txt = Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, botnet Quant
 
 - IOC-C2_BETABOT.txt = Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, botnet Betabot

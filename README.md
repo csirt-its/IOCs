@@ -33,9 +33,11 @@ Alto CONFIDENCE pois foi realizado um double-check em ferramentas/fontes distint
 
 - IOC-C2_NYMAIM.txt =  Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, botnet nymaim
 
-- IOC-C2_RACCONSTEALER.txt =  Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, racconstealer
+- IOC-C2_RACCONSTEALER.txt =  Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, botnet racconstealer
 
 - IOC-C2_IPV6_RACCONSTEALERtxt = Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, racconstealer  
+
+- IOC-C2_CONFICKER.txt = Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, botnet conficker
 
 - IOC-MD5_MALWARE_GERAL.txt = Relação [URL;IP;HASH-MD5 ou IP;HASH-MD5] de hosts/malware (generalizado) mapeados
 

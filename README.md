@@ -39,6 +39,8 @@ Alto CONFIDENCE pois foi realizado um double-check em ferramentas/fontes distint
 
 - IOC-C2_CONFICKER.txt = Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, botnet conficker
 
+- IOC-C2_AZORULT.txt = Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, botnet Azorult
+
 - IOC-MD5_MALWARE_GERAL.txt = Relação [URL;IP;HASH-MD5 ou IP;HASH-MD5] de hosts/malware (generalizado) mapeados
 
 

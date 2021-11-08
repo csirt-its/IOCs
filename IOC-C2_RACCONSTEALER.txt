@@ -5,7 +5,7 @@ IoC C2 Host Botnet: Raccoonstealer
 #Formato: IP;ASN [ex: xxx.xxx.xxx.xxx;ASxxxxxx]
 #OBS: IoC IPv4;ASN de host´s e seus sistemas autônomos, controladores (Atividade C2) da botnet #Raccoonstealer
 # --------------------------------------------------
-# Versão: 01/11/2021 , 15:02hs, By Gilmar Franco
+# Versão: 08/11/2021 , 11:27hs, By Gilmar Franco
 # --------------------------------------------------
 
 94.158.245.117;AS39798
@@ -23,7 +23,6 @@ IoC C2 Host Botnet: Raccoonstealer
 95.216.186.40;AS24940
 178.20.158.28;AS42331
 149.154.167.99;AS62041
-178.20.158.28;AS42331
 41.89.128.14;AS36914
 41.216.201.166;AS37105
 197.234.189.153;AS37315

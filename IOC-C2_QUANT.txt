@@ -5,7 +5,7 @@
 #Formato: IP;ASN [ex: xxx.xxx.xxx.xxx;ASxxxxxx]
 #OBS: IoC IPv4;ASN de host´s e seus sistemas autônomos, controladores (Atividade C2) da botnet #Quant
 # --------------------------------------------------
-# Versão: 08/11/2021 , 11:21hs, By Gilmar Franco
+# Versão: 12/11/2021 , 18:20hs, By Gilmar Franco
 # --------------------------------------------------
 185.117.119.29;AS200740
 41.89.128.14;AS36914

@@ -5,7 +5,7 @@
 #Formato: IP;ASN [ex: xxx.xxx.xxx.xxx;ASxxxxxx]
 #OBS: IoC IPv4;ASN de host´s e seus sistemas autônomos, controladores (Atividade C2) da botnet #Andrômeda 
 # --------------------------------------------------
-# Versão: 05/11/2021 , 11:20hs, By Gilmar Franco
+# Versão: 12/11/2021 , 17:11hs, By Gilmar Franco
 # --------------------------------------------------
 187.44.214.186;AS28186
 138.118.232.82;AS263880
@@ -80,7 +80,7 @@
 143.255.84.43;AS263703
 51.222.253.11;AS16276
 192.141.244.132;AS265540
-64.95.103.187
+64.95.103.187;29791
 173.231.184.124;AS29791
 173.231.189.15;AS29791
 184.105.192.2;AS6939

@@ -6,7 +6,7 @@
 #Formato: IP;ASN [ex: xxxx:xxxx:xxxx:xxxx:xxxx:xxxx:xxxx:xxxx;ASxxxxxx]
 #OBS: IoC IPv6;ASN de host´s e seus sistemas autônomos, controladores (Atividade C2) da botnet ponyloader
 # --------------------------------------------------
-# Versão: 08/11/2021 , 10:49hs, By Gilmar Franco
+# Versão: 12/11/2021 , 18:14hs, By Gilmar Franco
 # --------------------------------------------------
 2600:1f16:389:3100:6698:876d:8406:a143;AS16509
 2600:1f16:389:3100:451e:b6ad:a39f:8c1d;AS16509

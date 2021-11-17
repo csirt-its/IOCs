@@ -15,7 +15,11 @@ Alto CONFIDENCE pois foi realizado um double-check em ferramentas/fontes distint
 
 - IOC-C2_BETABOT.txt = Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, botnet Betabot
 
-- IOC-C2_DARKCOMET.txt = = Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, botnet darkcomet
+- IOC-C2_COBALTSTRIKE.txt = Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, botnet Cobaltstrike
+
+- IOC-C2_IPV6_COBALTSTRIKE.txt = Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, botnet Cobaltstrike
+
+- IOC-C2_DARKCOMET.txt = = Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, botnet Darkcomet
 
 - IOC-C2_PONYLOADER.txt = Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, botnet PonyLoader
 
@@ -31,13 +35,13 @@ Alto CONFIDENCE pois foi realizado um double-check em ferramentas/fontes distint
 
 - IOC-C2_AVALANCE_RANBYUS.txt =  Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, botnet ranbyus
 
-- IOC-C2_NYMAIM.txt =  Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, botnet nymaim
+- IOC-C2_NYMAIM.txt =  Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, botnet Nymaim
 
-- IOC-C2_RACCONSTEALER.txt =  Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, botnet racconstealer
+- IOC-C2_RACCONSTEALER.txt =  Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, botnet Racconstealer
 
-- IOC-C2_IPV6_RACCONSTEALERtxt = Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, racconstealer  
+- IOC-C2_IPV6_RACCONSTEALERtxt = Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, Racconstealer  
 
-- IOC-C2_CONFICKER.txt = Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, botnet conficker
+- IOC-C2_CONFICKER.txt = Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, botnet Conficker
 
 - IOC-C2_AZORULT.txt = Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, botnet Azorult
 

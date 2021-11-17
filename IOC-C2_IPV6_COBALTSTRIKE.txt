@@ -1,0 +1,12 @@
+#IoC C2 Host Botnet: cobaltstrike
+#By: Equipe CSIRT-ITS
+#Equipe CSIRT: Francisco Badaró, Cleidson Vaz, Gilmar Franco, Alex Brito
+#Tipo: IPv6
+#Formato: IP;ASN [ex: xxx.xxx.xxx.xxx;ASxxxxxx]
+#OBS: IoC IPv4;ASN de host´s e seus sistemas autônomos, controladores (Atividade C2) da botnet #cobaltstrike
+# --------------------------------------------------
+# Versão: 17/11/2021 , 09:58hs, By Gilmar Franco
+# --------------------------------------------------
+
+2606:2800:11f:17a5:191a:18d5:537:22f9;AS15133
+

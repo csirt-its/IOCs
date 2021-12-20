@@ -1,0 +1,10 @@
+#IoC C2 Host Botnet: Mirai
+#By: Equipe CSIRT-ITS
+#Equipe CSIRT: Francisco Badaró, Cleidson Vaz, Gilmar Franco, Alex Brito
+#Tipo: IPv6
+#Formato: IP;ASN [ex: xxxx:xxxx:xxxx:xxxx:xxxx:xxxx:xxxx:xxxx;ASxxxxxx]
+#OBS: IoC IPv6;ASN de host´s e seus sistemas autônomos, controladores (Atividade C2) da botnet Mirai
+# --------------------------------------------------
+# Versão: 20/12/2021 , 17:00hs, By Francisco Badaró
+# --------------------------------------------------
+2606:4700:3030::ac43:9bf0;AS13335

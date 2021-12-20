@@ -9,6 +9,8 @@ Alto CONFIDENCE pois foi realizado um double-check em ferramentas/fontes distint
 
 - IOC-C2_MIRAI.txt = Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, botnet Mirai
 
+- IOC-C2_IPV6_MIRAI.txt =  Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, botnet Mirai 
+
 - IOC-C2_AVALANCHEBOTNET_KASIDET.txt = = Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, botnet Kasidet
 
 - IOC-C2_QUANT.txt = Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, botnet Quant
@@ -46,6 +48,3 @@ Alto CONFIDENCE pois foi realizado um double-check em ferramentas/fontes distint
 - IOC-C2_AZORULT.txt = Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, botnet Azorult
 
 - IOC-MD5_MALWARE_GERAL.txt = Relação [URL;IP;HASH-MD5 ou IP;HASH-MD5] de hosts/malware (generalizado) mapeados
-
-
-

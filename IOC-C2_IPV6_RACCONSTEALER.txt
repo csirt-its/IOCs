@@ -5,8 +5,9 @@
 #Formato: IP;ASN [ex: xxxx:xxxx:xxxx:xxxx:xxxx:xxxx:xxxx:xxxx;ASxxxxxx]
 #OBS: IoC IPv6;ASN de host´s e seus sistemas autônomos, controladores (Atividade C2) da botnet Raccoonstealer
 # --------------------------------------------------
-# Versão: 17/11/2021 , 11:14hs, By Gilmar Franco
+# Versão: 20/12/2021 , 17:00hs, By Francisco Badaró
 # --------------------------------------------------
+2606:4700:3030::ac43:9bf0;AS13335
 2001:67c:4e8:1033:5:100:0:a;AS62041
 2804:1df8:8015:d100:89c0:9a72:afd5:30bf;AS62041
 2001:67c:4e8:1033:3:100:0:a;AS62041

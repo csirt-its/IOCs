@@ -2,7 +2,7 @@
 #By: Equipe CSIRT-ITS
 #Equipe CSIRT: Francisco Badaró, Cleidson Vaz, Gilmar Franco, Alex Brito
 #Tipo: IPv6
-#Formato: IP;ASN [ex: xxx.xxx.xxx.xxx;ASxxxxxx]
+#Formato: IP;ASN [ex: xxxx:xxxx:xxxx:xxxx:xxxx:xxxx;ASxxxxxx, ou forma compactada]
 #OBS: IoC IPv4;ASN de host´s e seus sistemas autônomos, controladores (Atividade C2) da botnet #lokibot
 # --------------------------------------------------
 # Versão:11/11/2021 , 17:32hs, By Gilmar Franco 

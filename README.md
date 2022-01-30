@@ -7,6 +7,10 @@ Alto CONFIDENCE pois foi realizado um double-check em ferramentas/fontes distint
 
 ÍNDICE:
 
+- IOC-C2_DiamondFox.txt = Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, botnet DiamondFox
+
+- IOC-C2_IPV6_DiamondFox.txt = Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, botnet DiamondFox
+
 - IOC-C2_MIRAI.txt = Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, botnet Mirai
 
 - IOC-C2_ISRSTEALER.TXT= Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, botnet isrstealer

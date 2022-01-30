@@ -2,7 +2,7 @@
 #By: Equipe CSIRT-ITS
 #Equipe CSIRT: Francisco Badaró, Cleidson Vaz, Gilmar Franco, Alex Brito
 #Tipo: IPv6
-#Formato: IP;ASN [ex: xxxx:xxxx:xxxx:xxxx:xxxx:xxxx:xxxx:xxxx;ASxxxxxx]
+#Formato: IP;ASN [ex: xxxx:xxxx:xxxx:xxxx:xxxx:xxxx;ASxxxxxx, ou forma compactada]
 #OBS: IoC IPv6;ASN de host´s e seus sistemas autônomos, controladores (Atividade C2) da botnet Raccoonstealer
 # --------------------------------------------------
 # Versão: 25/01/2022 , 11:35hs, By Alex Brito 

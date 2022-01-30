@@ -7,6 +7,8 @@ Alto CONFIDENCE pois foi realizado um double-check em ferramentas/fontes distint
 
 ÍNDICE:
 
+- IOC-C2_Darcomet.txt = Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, botnet Darcomet
+
 - IOC-C2_DiamondFox.txt = Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, botnet DiamondFox
 
 - IOC-C2_IPV6_DiamondFox.txt = Relação [IP;ASN] de hosts que são controladores (Controller/C2) mapeados, botnet DiamondFox

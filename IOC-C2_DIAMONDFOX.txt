@@ -1,0 +1,11 @@
+#IoC C2 Host Botnet: DiamondFox
+#By: Equipe CSIRT-ITS
+#Equipe CSIRT: Francisco Badaró, Cleidson Vaz, Gilmar Franco, Alex Brito
+#Tipo: IPv4
+#Formato: IP;ASN [ex: xxx.xxx.xxx.xxx;ASxxxxxx]
+#OBS: IoC IPv4;ASN de host´s e seus sistemas autônomos, controladores (Atividade C2) da botnet #DiamondFox
+
+# --------------------------------------------------
+# Versão: 29/01/2022 , 22:10hs, By Francisco Badaró
+# --------------------------------------------------
+185.53.178.50;AS61969
